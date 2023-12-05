@@ -1,0 +1,15 @@
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/bin/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/bin/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.deps.json
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/bin/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.runtimeconfig.json
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/bin/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.dll
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/bin/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.pdb
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.csproj.AssemblyReference.cache
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.AssemblyInfoInputs.cache
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.AssemblyInfo.cs
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.csproj.CoreCompileInputs.cache
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.dll
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/refint/If-You-Give-A-Seed-A-Fertilizer.git.dll
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.pdb
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/If-You-Give-A-Seed-A-Fertilizer.git.genruntimeconfig.cache
+/Users/stevenbarker/Projects/If-You-Give-A-Seed-A-Fertilizer/If-You-Give-A-Seed-A-Fertilizer.git/If-You-Give-A-Seed-A-Fertilizer.git/obj/Debug/net7.0/ref/If-You-Give-A-Seed-A-Fertilizer.git.dll
